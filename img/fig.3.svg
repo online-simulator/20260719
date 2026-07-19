@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="256" viewBox="0 0 512 256">
+<!-- online-simulator.github.io.7.544.732.32.201 @ Sun Jul 19 2026 21:48:01 GMT+0900 (日本標準時) @ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 -->
+<!-- plot2d("1","2**4","quality=t,V0=1.616e-35**3,V(r)=<(4pi/3)*r**3,Vpast(quality)=<V0*(Vnow/V0)**(1/quality),rnow=465e8*9460730472580800,Vnow=V(rnow),Vre=V(rnow/1e3),log10(Vpast(quality)/V0);","quality;qualityre=ln(Vnow/V0)/ln(Vre/V0),qualityre;2;","20","ORIGIN{2.5,gray,17}TITLE{equilibrium point quality≧qmax, quality:=ln(Vnow/V0)/ln(Vpast/V0)}XLABEL{log10(Vpast/V0)}YLABEL{quality}::::::quality=ln(Vnow/V0)/ln(Vpast/V0);::0::::recombination qualityre=ln(Vnow/V0)/ln(Vre/V0);::::::qmax=2;"," "," "," ") -->
+<!-- center=true&wheel=true&drag=false&test-case=false&plot-all=true&relzooming=true&snap=true&legend=true&axis-t=false&axis-x=true&log-x=false&imag-x=false&axis-y=true&log-y=false&imag-y=false&axis-z=true&axis-v=true&config-plot=false&useMatrix=true&useStrict=false&sharedStorage=false&checkError=true&equation-list=false&config=false&isRightAssociativityBR=false&isDIVprior2OMUL=false&useComma=false&use$let=false&useMutex=false&useWorker=true&plot2d-Ver=3&decDigit=1&roundDigit-y=0&rows-y=5&roundDigit-x=0&rows-x=5&n_thread=4&canvas-background=black&grid-line-width=0.5&marker-size=5&marker-line-width=0&plot-line-width=2&font-size=12&grid-x-Ni=4&grid-y-Nj=3&kx-adjust=2&marker-colors=Ver.1&legend-kx=0.25&legend-ky=0.1&canvas-globalCompositeOperationLayer=source-over&canvas-globalCompositeOperation=source-over&useComplex=-1&expDigit=-1&useFunc=0&useScopeWith=0&N=20&matSizeMax=1024&depthMax=300&oldPlot2d=false&input-z=ORIGIN{2.5,gray,17}TITLE{equilibrium point quality≧qmax, quality:=ln(Vnow/V0)/ln(Vpast/V0)}XLABEL{log10(Vpast/V0)}YLABEL{quality}::::::quality=ln(Vnow/V0)/ln(Vpast/V0);::0::::recombination qualityre=ln(Vnow/V0)/ln(Vre/V0);::::::qmax=2;&last-legend=0&expDigitX=-1&expDigitY=-1&bg-color=&grid-line-color=gray -->
+<polygon fill="black" stroke="none" points="0 0 512 0 512 256 0 256"/>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(256 14)" x="-220.4" y="0">equilibrium point quality≧qmax, quality:=ln(Vnow/V0)/ln(Vpast/V0)</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(279.2 243.2)" x="-51.2" y="0">log10(Vpast/V0)</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="rotate(-90 25.6 109.9) translate(25.6 109.9)" x="-22.8" y="14">quality</text>
+<text font-family="sans-serif" font-size="17" fill="gray" stroke="gray" transform="translate(84.5 208.5)" x="-6.4" y="0">O</text>
+<line stroke="gray" stroke-width="2.5" stroke-linecap="round" x1="93" y1="193.4" x2="93" y2="26.5"/>
+<line stroke="gray" stroke-width="2.5" stroke-linecap="round" x1="93" y1="193.4" x2="465.4" y2="193.4"/>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="193.4" x2="93" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="89.7" y="217.4">0</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="186.1" y1="193.4" x2="186.1" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="179.5" y="217.4">50</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="279.2" y1="193.4" x2="279.2" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="269.2" y="217.4">100</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="372.3" y1="193.4" x2="372.3" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="362.3" y="217.4">150</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="465.4" y1="193.4" x2="465.4" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="455.4" y="217.4">200</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="193.4" x2="465.4" y2="193.4"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="199.4">0</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="151.7" x2="465.4" y2="151.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="157.7">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="109.9" x2="465.4" y2="109.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="115.9">2</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="68.2" x2="465.4" y2="68.2"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="74.2">3</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="26.5" x2="465.4" y2="26.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="32.5">4</text>
+<g style="mask:url(#mask_lines_and_gradations)">
+</g>
+<g style="mask:url(#mask_lines_and_gradations)">
+<polyline fill="none" stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="437.3 151.7 289.8 120.4 230.8 89.1 199 57.8 179.1 26.5 165.5 -4.8 155.6 -36.1 148.1 -67.3 142.2 -98.6 137.5 -129.9 133.5 -161.2 130.3 -192.5 127.5 -223.8 125.1 -255.1 123 -286.4 121.1 -317.6 119.5 -348.9 118.1 -380.2 116.8 -411.5 115.6 -442.8 114.6 -474.1"/>
+<line />
+<polyline fill="none" stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="437.3 149.5 289.8 149.5 230.8 149.5 199 149.5 179.1 149.5 165.5 149.5 155.6 149.5 148.1 149.5 142.2 149.5 137.5 149.5 133.5 149.5 130.3 149.5 127.5 149.5 125.1 149.5 123 149.5 121.1 149.5 119.5 149.5 118.1 149.5 116.8 149.5 115.6 149.5 114.6 149.5"/>
+<line />
+<polyline fill="none" stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="437.3 109.9 289.8 109.9 230.8 109.9 199 109.9 179.1 109.9 165.5 109.9 155.6 109.9 148.1 109.9 142.2 109.9 137.5 109.9 133.5 109.9 130.3 109.9 127.5 109.9 125.1 109.9 123 109.9 121.1 109.9 119.5 109.9 118.1 109.9 116.8 109.9 115.6 109.9 114.6 109.9"/>
+<line />
+</g>
+<defs><mask id="mask_lines_and_gradations"><rect x="93" y="26.5" width="373.3" height="167.8" fill="#ffffff"/></mask></defs>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="437.3" cy="151.7"/>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="289.8" cy="120.4"/>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="230.8" cy="89.1"/>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="199" cy="57.8"/>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="179.1" cy="26.5"/>
+<polygon fill="black" stroke="none" points="128 27.1 349.6 27.1 349.6 39.1 128 39.1"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="39.1">quality=ln(Vnow/V0)/ln(Vpast/V0)</text>
+<line stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="33.1" x2="152" y2="33.1"/>
+<circle r="5" fill="rgb(255,0,0)" stroke="black" stroke-width="1.5" cx="140" cy="33.1"/>
+<polygon fill="black" stroke="none" points="128 42.1 433 42.1 433 54.1 128 54.1"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="54.1">recombination qualityre=ln(Vnow/V0)/ln(Vre/V0)</text>
+<line stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="48.1" x2="152" y2="48.1"/>
+<polygon fill="black" stroke="none" points="128 57.1 208.6 57.1 208.6 69.1 128 69.1"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="69.1">qmax=2</text>
+<line stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="63.1" x2="152" y2="63.1"/>
+</svg>
